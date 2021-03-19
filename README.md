@@ -6,10 +6,10 @@ Deep Learning by Python
  **< 딥러닝(Deep Learning) >**
  : 복잡한 형태의 신경망.
  - 대표적인 알고리즘.
-  - CNN(Convolutional Neural Networks)
-  - RNN(Recurrent Neural Network) ex) LSTM
-  - GAN(Generative Adversarial Networks)
-  - Auto Encoder
+   - CNN(Convolutional Neural Networks)
+   - RNN(Recurrent Neural Network) ex) LSTM
+   - GAN(Generative Adversarial Networks)
+   - Auto Encoder
 
 
 ### DeepBrick for Keras
