@@ -3,7 +3,7 @@ Deep Learning by Python
 
 
 
- **< 딥러닝(Deep Learning) >**
+ **< 딥러닝(Deep Learning) >**<b
  : 복잡한 형태의 신경망.
  - 대표적인 알고리즘.
    - CNN(Convolutional Neural Networks)
